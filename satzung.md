@@ -12,12 +12,18 @@
 
 ## 2. Zweck des Vereins
 
-**2.1** Zweck des Vereins ist es, die Bürger_innen durch Aufklärung und Beratung in allen mit dem Datenschutz im Zusammenhang stehenden Fragen in der Ausübung ihrer diesbezüglichen Rechte zu stärken und somit das demokratische Staatswesen zu fördern im Sinne des § 52 Abs. 2 Nr. 24 AO.
+**2.1** Zweck des Vereins ist es
+
+a) die Bürger_innen durch Aufklärung und Beratung in allen mit dem Datenschutz (als Grundrecht im Sinne des Art. 8 Abs. 1 der Charta der Grundrechte der Europäischen Union) im Zusammenhang stehenden Fragen in der Ausübung ihres Rechts auf informationelle Selbstbestimmung zu stärken und somit das demokratische Staatswesen im digitalen Zeitalter sowie Bildung, Wissenschaft und Forschung zu fördern und  
+b) Informationen zum Datenschutz in Unternehmen und sonstigen Organisationen zum Schutz der Daten von Verbraucher_innen zur Verfügung zu stellen, um die Verbraucher_innenberatung und den Verbraucher_innenschutz im Hinblick auf digitale Netze zu fördern.
 
 **2.2** Der Satzungszweck wird verwirklicht insbesondere durch:
 
-a) den Betrieb und die Entwicklung der offenen, kostenlosen und frei zugänglichen Onlineplattformen Datenanfragen.de (in deutscher Sprache) und datarequests.org (in englischer Sprache) sowie ggf. in weiteren Sprachen zur Unterstützung der Allgemeinheit bei der Ausübung ihrer Rechte im Bezug auf den Datenschutz,  
-b) die Pflege einer frei lizensierten Datenbank von Kontaktdaten zu Ansprechpartner_innen zum Datenschutz in Unternehmen und sonstigen Organisationen sowie die Moderation von Drittbeiträgen zu dieser Datenbank.
+a) den Betrieb und die Entwicklung eines Generators für Anfragen im Sinne der Art. 15 ff. DSGVO und im Zuge dessen die Bereitstellung von Mustertexten für solche Anfragen, um Bürger_innen in der Ausübung ihres Grundrechts auf informationelle Selbstbestimmung zu unterstützen,  
+b) die Bereitstellung und Pflege von Informationsmaterialien (z. B. Artikeln, Anleitungen, Berichten, Broschüren, Printmagazinen und Videos) zur Aufklärung und Beratung der Allgemeinheit im Hinblick auf die datenschutztechnischen Konsequenzen der Nutzung von digitalen Netzen, die Rechte und Möglichkeiten, die sich für Verbraucher_innen aus dem Recht auf informationelle Selbstbestimmung sowie insbesondere der DSGVO ergeben und die konkrete Ausübung eben jener Rechte zur Förderung von Bildung, Wissenschaft und Forschung,  
+c) die Pflege einer frei lizensierten Datenbank von Kontaktdaten zu Ansprechpartner_innen zum Datenschutz in Unternehmen, Behörden und sonstigen Organisationen und Informationen zu den möglichen Kategorien gespeicherter Daten sowie die Moderation von Drittbeiträgen zu dieser Datenbank zum Austausch von Informationen im Sinne des Verbraucher_innenschutzes,  
+d) Öffentlichkeitsarbeit und Durchführung von Kampagnen sowie Organisation von oder Teilnahme an Vorträgen, Seminaren oder sonstigen Veranstaltungen zur breiten Aufklärung der Allgemeinheit zu Bürger_innenrechten auf Datenschutz und der Förderung der Debatte um ein Grundrecht auf informationelle Selbstbestimmung,  
+e) den Betrieb und die Entwicklung der offenen, kostenlosen und frei zugänglichen Onlineplattformen Datenanfragen.de (in deutscher Sprache) und datarequests.org (in englischer Sprache) sowie ggf. in weiteren Sprachen, die den Zugang zum in a) genannten Generator sowie der in c) genannten Datenbank ermöglichen, weiterhin die in b) genannten Informationsmaterialien der Allgemeinheit öffentlich zur Verfügung stellen und schließlich auf die in d) genannte Öffentlichkeitsarbeit hinweisen.
 
 **2.3** Der Verein ist selbstlos tätig. Er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
 
@@ -119,7 +125,7 @@ d) Beschlussfassung über die Änderung der Satzung und über die Auflösung des
 
 **12.5** Die Mitgliederversammlung fasst Beschlüsse im Allgemeinen mit einfacher Mehrheit der abgebebenen gültigen Stimmen (einschließlich Enthaltungen). Zur Änderung der Satzung (einschließlich des Vereinszweckes) ist jedoch eine Mehrheit von drei Vierteln der abgegebenen gültigen Stimmen, zur Auflösung des Vereins eine solche von vier Fünfteln erforderlich.
 
-**12.6** Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll aufzunehmen, das von dem_der jeweiligen Versammlungsleiter_in und dem_der Protokollführer_in zu unterzeichnen ist. Es soll folgende Feststellungen enthalten: Ort und Zeit der Versammlung, die Person des_der Versammlungsleiters_rin und des_der Protokollführers_rin, die Zahl der erschienenen Mitglieder, die Tagesordnung, die einzelnen Abstimmungsergebnisse und die Art der Abstimmung. Bei Satzungsänderungen ist die zu ändernde Bestimmung anzugeben. Das Protokoll ist den Mitgliedern zugänglich zu machen.
+**12.6** Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll aufzunehmen, das von dem_der jeweiligen Versammlungsleiter_in und dem_der Protokollführer_in zu unterzeichnen ist. Es soll folgende Feststellungen enthalten: Datum und Zeit der Versammlung, die Person des_der Versammlungsleiters_rin und des_der Protokollführers_rin, die Zahl der erschienenen Mitglieder, die Tagesordnung, die einzelnen Abstimmungsergebnisse und die Art der Abstimmung. Bei Satzungsänderungen ist die zu ändernde Bestimmung anzugeben. Das Protokoll ist den Mitgliedern zugänglich zu machen.
 
 ## 13. Nachträgliche Anträge zur Tagesordnung
 
@@ -137,7 +143,7 @@ d) Beschlussfassung über die Änderung der Satzung und über die Auflösung des
 
 **16.1** Die Auflösung des Vereins kann nur in einer Mitgliederversammlung mit der im Abschnitt 12 festgelegten Stimmenmehrheit beschlossen werden. Sofern die Mitgliederversammlung nichts anderes beschließt, sind die Vorsitzenden gemeinsam vertretungsberechtigte Liquidator_innen. Die vorstehenden Vorschriften gelten entsprechend für den Fall, dass der Verein aus einem anderen Grund aufgelöst wird oder seine Rechtsfähigkeit verliert.
 
-**16.2** Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung zur Förderung des Datenschutzes.
+**16.2** Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung zur Förderung des demokratischen Staatswesens im Sinne des § 52 Abs. 2 Nr. 24 AO.
 
 ## 17. OpenPGP-Keys
 
@@ -157,5 +163,6 @@ c) Datenschutz: `CC13 973A F8FD 11D1 4D94  98A8 0269 92F0 CF2C BB2E`
 
 Die vorstehende Satzung wurde in der Gründungsversammlung vom [Datum] errichtet.
 
-[Ort], [Datum]  
+Braunschweig, den [Datum]
+
 [Unterschriften der Gründungsmitglieder]
