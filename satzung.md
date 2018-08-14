@@ -4,7 +4,7 @@
 
 **1.1** Der Verein soll den Namen „Datenanfragen.de e. V.“ führen.
 
-**1.2** Der Verein hat seinen Sitz in Braunschweig. Er wurde am [Datum] errichtet.
+**1.2** Der Verein hat seinen Sitz in Braunschweig. Er wurde am 14. Juni 2018 errichtet.
 
 **1.3** Das Geschäftsjahr des Vereins ist das Kalenderjahr.
 
@@ -14,15 +14,15 @@
 
 **2.1** Zweck des Vereins ist es
 
-a) die Bürger_innen durch Aufklärung und Beratung in allen mit dem Datenschutz (als Grundrecht im Sinne des Art. 8 Abs. 1 der Charta der Grundrechte der Europäischen Union) im Zusammenhang stehenden Fragen in der Ausübung ihres Rechts auf informationelle Selbstbestimmung zu stärken und somit das demokratische Staatswesen im digitalen Zeitalter sowie Bildung, Wissenschaft und Forschung zu fördern und  
+a) die Bürger_innen durch Aufklärung und Beratung in allen mit dem Datenschutz (als Grundrecht im Sinne des Art. 8 Abs. 1 der Charta der Grundrechte der Europäischen Union) im Zusammenhang stehenden Fragen in der Ausübung ihres Rechts auf informationelle Selbstbestimmung zu stärken und somit das demokratische Staatswesen im digitalen Zeitalter sowie die Bildung der Allgemeinheit zu fördern und  
 b) Informationen zum Datenschutz in Unternehmen und sonstigen Organisationen zum Schutz der Daten von Verbraucher_innen zur Verfügung zu stellen, um die Verbraucher_innenberatung und den Verbraucher_innenschutz im Hinblick auf digitale Netze zu fördern.
 
-**2.2** Der Satzungszweck wird verwirklicht insbesondere durch:
+**2.2** Der Satzungszweck wird verwirklicht insbesondere durch
 
 a) den Betrieb und die Entwicklung eines Generators für Anfragen im Sinne der Art. 15 ff. DSGVO und im Zuge dessen die Bereitstellung von Mustertexten für solche Anfragen, um Bürger_innen in der Ausübung ihres Grundrechts auf informationelle Selbstbestimmung zu unterstützen,  
-b) die Bereitstellung und Pflege von Informationsmaterialien (z. B. Artikeln, Anleitungen, Berichten, Broschüren, Printmagazinen und Videos) zur Aufklärung und Beratung der Allgemeinheit im Hinblick auf die datenschutztechnischen Konsequenzen der Nutzung von digitalen Netzen, die Rechte und Möglichkeiten, die sich für Verbraucher_innen aus dem Recht auf informationelle Selbstbestimmung sowie insbesondere der DSGVO ergeben und die konkrete Ausübung eben jener Rechte zur Förderung von Bildung, Wissenschaft und Forschung,  
+b) die Bereitstellung und Pflege von Informationsmaterialien (z. B. Artikeln, Anleitungen, Berichten, Broschüren, Printmagazinen und Videos) zur Förderung von Bildung, Wissenschaft und Forschung durch Aufklärung und Beratung der Allgemeinheit im Hinblick auf die datenschutzspezifischen Konsequenzen der Nutzung von digitalen Netzen, die Rechte und Möglichkeiten, die sich für Verbraucher_innen aus dem Grundrecht auf informationelle Selbstbestimmung sowie insbesondere der DSGVO ergeben, und die konkrete Ausübung eben jener Rechte,  
 c) die Pflege einer frei lizensierten Datenbank von Kontaktdaten zu Ansprechpartner_innen zum Datenschutz in Unternehmen, Behörden und sonstigen Organisationen und Informationen zu den möglichen Kategorien gespeicherter Daten sowie die Moderation von Drittbeiträgen zu dieser Datenbank zum Austausch von Informationen im Sinne des Verbraucher_innenschutzes,  
-d) Öffentlichkeitsarbeit und Durchführung von Kampagnen sowie Organisation von oder Teilnahme an Vorträgen, Seminaren oder sonstigen Veranstaltungen zur breiten Aufklärung der Allgemeinheit zu Bürger_innenrechten auf Datenschutz und der Förderung der Debatte um ein Grundrecht auf informationelle Selbstbestimmung,  
+d) Öffentlichkeitsarbeit und Durchführung von Kampagnen sowie Organisation von oder Teilnahme an Vorträgen, Seminaren oder sonstigen Veranstaltungen zur breiten Aufklärung der Allgemeinheit zu Bürger_innenrechten auf Datenschutz und der Förderung der Debatte um ein Grundrecht auf informationelle Selbstbestimmung und  
 e) den Betrieb und die Entwicklung der offenen, kostenlosen und frei zugänglichen Onlineplattformen Datenanfragen.de (in deutscher Sprache) und datarequests.org (in englischer Sprache) sowie ggf. in weiteren Sprachen, die den Zugang zum in a) genannten Generator sowie der in c) genannten Datenbank ermöglichen, weiterhin die in b) genannten Informationsmaterialien der Allgemeinheit öffentlich zur Verfügung stellen und schließlich auf die in d) genannte Öffentlichkeitsarbeit hinweisen.
 
 **2.3** Der Verein ist selbstlos tätig. Er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
@@ -74,7 +74,10 @@ b) die Mitgliederversammlung.
 
 ## 7. Der Vorstand
 
-**7.1** Der Vorstand im Sinne des § 26 BGB besteht aus zwei Vorsitzenden sowie beliebig vielen Beisitzer_innen.
+**7.1** Der Vorstand setzt sich zusammen aus:
+
+a) zwei Vorsitzenden, welche den geschäftsführenden Vorstand als Vorstand im Sinne des § 26 BGB bilden, sowie  
+b) beliebig vielen Beisitzer_innen, die dem erweiterten Vorstand, nicht aber dem vertretungsberechtigten Vorstand nach § 26 BGB angehören.
 
 **7.2** Der Verein wird gerichtlich und außergerichtlich durch die Vorsitzenden gemeinschaftlich vertreten. Auf Beschluss des Vorstandes oder der Mitgliederversammlung kann das Vertretungsrecht im Rahmen einer definierten Aufgabe auch an ein einzelnes Vorstandsmitglied delegiert werden.
 
@@ -161,8 +164,6 @@ c) Datenschutz: `CC13 973A F8FD 11D1 4D94  98A8 0269 92F0 CF2C BB2E`
 
 ---
 
-Die vorstehende Satzung wurde in der Gründungsversammlung vom [Datum] errichtet.
+Die vorstehende Satzung wurde in der Gründungsversammlung vom 14. Juni 2018 errichtet und zuletzt geändert in der Vorstandssitzung vom 02. August 2018.
 
-Braunschweig, den [Datum]
-
-[Unterschriften der Gründungsmitglieder]
+Unterschrieben von den Gründungsmitgliedern in Göttingen am 14. Juni 2018.
